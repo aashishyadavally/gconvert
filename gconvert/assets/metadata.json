@@ -1,0 +1,65 @@
+{
+    "Semester 1": {
+        "EL101": "Digital Logic Design",
+        "MA101": "Introduction to Discrete Mathematics",
+        "IT101": "Introduction to Programming",
+        "IT102": "Introduction to Programming Lab",
+        "PH101": "Physics",
+        "HM101": "Spoken and Written Communication"
+    },
+    "Semester 2": {
+        "EL102": "Basic Electronics Circuits",
+        "MA102": "Calculus",
+        "CS102": "Computer Organization",
+        "CS101": "Data Structure",
+        "CS103": "Data Structure Lab",
+        "CS104": "Introduction to Computer Science"
+    },
+    "Semester 3": {
+        "HM201": "Economics",
+        "CS201": "Object Oriented Programming",
+        "CS202": "Object Oriented Programming Lab",
+        "CS203": "Operating Systems",
+        "MA201": "Probability and Statistics",
+        "CS204": "Systems and Signal Theory"
+    },
+    "Semester 4": {
+        "CS208": "Computer Networks",
+        "CS209": "Computer Networks Lab",
+        "CS205": "Database Management System",
+        "CS206": "Database Management System Lab",
+        "CS207": "Design and Analysis of Algorithms",
+        "CS204": "Science Technology and Society"
+    },
+    "Semester 5": {
+        "CS304": "Formal Language & Automata Theory",
+        "CS305": "Numerical Linear Algebra",
+        "CS303": "Principles of Programming Language",
+        "CS301": "Software Engineering",
+        "CS302": "Software Engineering Lab",
+        "HM301": "Environmental Science",
+        "SC303": "Curves and Surfaces for Computer Graphics",
+        "PC301": "Design Project"
+    },
+    "Semester 6": {
+        "CS306": "Compiler Design",
+        "CS307": "Compiler Design Lab",
+        "CS310": "Computer Architecture",
+        "CS308": "Introduction to Artificial Intelligence",
+        "CS309": "Introduction to Cryptography and Security",
+        "SC304": "Speech Science and Technology",
+        "HM303": "Organizational Behavior"
+    },
+    "Semester 7": {
+        "CS401": "Distributed Computing",
+        "HM401": "Professional Ethics",
+        "CS402": "Information Retrieval",
+        "CS406": "Topics in Signal Processing",
+        "CS405": "Computer Vision",
+        "CS404": "Pattern Recognition",
+        "PC303": "Research Internship"
+    },
+    "Semester 8": {
+        "PC401": "B.Tech Project"
+    }
+}
