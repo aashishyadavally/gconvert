@@ -1,0 +1,210 @@
+{
+    "Semester 1": {
+        "EL101": {
+            "credits": 5,
+            "grade": "BC"
+        },
+        "MA101": {
+            "credits": 4,
+            "grade": "BB"
+        },
+        "IT101": {
+            "credits": 2,
+            "grade": "AB"
+        },
+        "IT102": {
+            "credits": 3,
+            "grade": "AB"
+        },
+        "PH101": {
+            "credits": 5,
+            "grade": "AB"
+        },
+        "HM101": {
+            "credits": 2,
+            "grade": "BC"
+        }
+    },
+    "Semester 2": {
+        "EL102": {
+            "credits": 5,
+            "grade": "CC"
+        },
+        "MA102": {
+            "credits": 4,
+            "grade": "AB"
+        },
+        "CS102": {
+            "credits": 5,
+            "grade": "BB"
+        },
+        "CS101": {
+            "credits": 3,
+            "grade": "BB"
+        },
+        "CS103": {
+            "credits": 3,
+            "grade": "BC"
+        },
+        "CS104": {
+            "credits": 2,
+            "grade": "AB"
+        }
+    },
+    "Semester 3": {
+        "HM201": {
+            "credits": 3,
+            "grade": "BC"
+        },
+        "CS201": {
+            "credits": 3,
+            "grade": "CC"
+        },
+        "CS202": {
+            "credits": 3,
+            "grade": "CC"
+        },
+        "CS203": {
+            "credits": 5,
+            "grade": "BB"
+        },
+        "MA201": {
+            "credits": 4,
+            "grade": "BC"
+        },
+        "CS204": {
+            "credits": 4,
+            "grade": "BB"
+        }
+    },
+    "Semester 4": {
+        "CS208": {
+            "credits": 3,
+            "grade": "DD"
+        },
+        "CS209": {
+            "credits": 3,
+            "grade": "BB"
+        },
+        "CS205": {
+            "credits": 3,
+            "grade": "CC"
+        },
+        "CS206": {
+            "credits": 3,
+            "grade": "CC"
+        },
+        "CS207": {
+            "credits": 4,
+            "grade": "AA"
+        },
+        "HM202": {
+            "credits": 3,
+            "grade": "CC"
+        },
+        "HM203": {
+            "credits": 3,
+            "grade": "AB"
+        }
+    },
+    "Semester 5": {
+        "CS304": {
+            "credits": 4,
+            "grade": "CD"
+        },
+        "CS305": {
+            "credits": 3,
+            "grade": "BC"
+        },
+        "CS303": {
+            "credits": 3,
+            "grade": "BC"
+        },
+        "CS301": {
+            "credits": 3,
+            "grade": "BB"
+        },
+        "CS302": {
+            "credits": 3,
+            "grade": "BB"
+        },
+        "HM301": {
+            "credits": 3,
+            "grade": "AA"
+        },
+        "SC303": {
+            "credits": 3,
+            "grade": "BC",
+        },
+        "PC301": {
+            "credits": 3,
+            "grade": "P"
+        }
+    },
+    "Semester 6": {
+        "CS306": {
+            "credits": 3,
+            "grade": "CC"
+        },
+        "CS307": {
+            "credits": 3,
+            "grade": "BB"
+        },
+        "CS310": {
+            "credits": 4,
+            "grade": "BB"
+        },
+        "CS308": {
+            "credits": 4,
+            "grade": "BB"
+        },
+        "CS309": {
+            "credits": 3,
+            "grade": "BC"
+        },
+        "SC304": {
+            "credits": 3,
+            "grade": "AA"
+        },
+        "HM303": {
+            "credits": 3,
+            "grade": "BB"
+        },
+    },
+    "Semester 7": {
+        "CS401": {
+            "credits": 4,
+            "grade": "BB"
+        },
+        "HM401": {
+            "credits": 2,
+            "grade": "P"
+        },
+        "CS402": {
+            "credits": 4,
+            "grade": "AB"
+        },
+        "CS406": {
+            "credits": 4,
+            "grade": "BB"
+        },
+        "CS405": {
+            "credits": 4,
+            "grade": "CC"
+        },
+        "CS404": {
+            "credits": 4,
+            "grade": "BB"
+        },
+        "PC303": {
+            "credits": 3,
+            "grade": "P"
+        },
+    },
+    "Semester 8": {
+        "PC401": {
+            "credits": 18,
+            "grade": "AB"
+        }
+    }
+}
