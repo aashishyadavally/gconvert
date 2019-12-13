@@ -134,7 +134,7 @@
         },
         "SC303": {
             "credits": 3,
-            "grade": "BC",
+            "grade": "BC"
         },
         "PC301": {
             "credits": 3,
@@ -169,7 +169,7 @@
         "HM303": {
             "credits": 3,
             "grade": "BB"
-        },
+        }
     },
     "Semester 7": {
         "CS401": {
@@ -199,7 +199,7 @@
         "PC303": {
             "credits": 3,
             "grade": "P"
-        },
+        }
     },
     "Semester 8": {
         "PC401": {
